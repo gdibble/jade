@@ -1,7 +1,6 @@
 .DS_Store
 .idea
 testing
-node_modules
 lib-cov
 coverage
 cov-pt*
